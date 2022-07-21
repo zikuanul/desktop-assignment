@@ -1,0 +1,113 @@
+ #header-one{
+    margin-top: 80px;
+    font-size: 35px;
+    color: rgb(255, 223, 13);
+ }
+ .one{
+    background-color: rgb(232, 174, 174);
+    display: flex;
+}
+.paragraph-one{
+    font-size: 20px;
+}
+.button-one{
+    height: 30px;
+    width: 100px;
+    background-color: rgba(201, 62, 11, 0.942);
+    margin-left: 150px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+.division-one{
+    width: 50%;
+}
+
+.matches{
+    margin-top: 7%;
+    align-items: center;
+    padding-top: 2%;
+    border: 5px solid red;
+    background-color: lightgray; 
+    width: 25%; 
+    height: 40%; 
+    text-align: center;
+}
+#special{
+    background-color: lightblue;
+}
+.option{
+    display: block;
+    height: 80px;
+    width: 250px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 10px;
+    
+}
+.teams{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 250px;
+    width: 500px;
+    border: 5px solid black;
+    margin-top: 20px;
+    background-color: aqua;
+
+
+}
+.team img{
+    width: 100%;
+}
+.size{
+    font-size: 2em;
+    margin-left: 0%;
+   align-items: center;
+   text-align: center;
+   width: 80%;
+   margin-top: -30px;
+   margin-left: 20px;
+}
+.team{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#side{
+    margin-left: 50px;
+}
+#special-one{
+    width: 250%;
+}
+.last-one{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.last-two{
+    display: flex;
+}
+footer{
+    background-color: black;
+    margin-top: 20px;
+}
+.foot{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    color: whitesmoke;
+    font-size: 2em;
+    
+}
+.last-heading{
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 30px;
+}
+body{
+    border: 5px solid black;
+    padding: 1%;
+}
